@@ -1,0 +1,7 @@
+[package]
+authors = [""]
+compiler_version = "0.9.0"
+name = "stealthdrop"
+
+[dependencies]
+ecrecover = { tag = "v0.8.0", git = "https://github.com/colinnielsen/ecrecover-noir" }
